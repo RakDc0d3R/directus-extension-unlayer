@@ -1,0 +1,51 @@
+{
+  "name": "directus-extension-unlayer",
+  "description": "This is an email editor to build beautiful, responsive designs quickly and easily.",
+  "icon": "extension",
+  "version": "1.0.0",
+  "author": "Rakshan Shetty K <rakdcoder@gmail.com>",
+  "keywords": [
+    "directus",
+    "directus-extension",
+    "directus-extension-unlayer",
+    "email",
+    "unlayer",
+    "email-editor",
+    "unlayer-editor"
+  ],
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "directus:extension": {
+    "type": "interface",
+    "path": "dist/index.js",
+    "source": "src/index.js",
+    "host": "^10.10.0",
+    "sandbox": {
+      "enabled": true,
+      "requestedScopes": {}
+    }
+  },
+  "scripts": {
+    "build": "directus-extension build",
+    "dev": "directus-extension build -w --no-minify",
+    "link": "directus-extension link"
+  },
+  "devDependencies": {
+    "@directus/extensions-sdk": "11.0.9",
+    "vue": "^3.4.31"
+  },
+  "dependencies": {
+    "vue-email-editor": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RakDc0d3R/directus-extension-unlayer.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RakDc0d3R/directus-extension-unlayer/issues"
+  },
+  "homepage": "https://github.com/RakDc0d3R/directus-extension-unlayer#readme"
+}
