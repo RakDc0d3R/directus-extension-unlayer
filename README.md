@@ -8,9 +8,9 @@ Unlayer email editor for Directus 10.
 
 You'll find the extension inside section **Other**
 
-![screenshot-1](https://raw.githubusercontent.com/RakDc0d3R/directus-extension-unlayer/main/screenshot-01.png)
+![screenshot-1](https://raw.githubusercontent.com/RakDc0d3R/directus-extension-unlayer/main/screenshot-extension.png)
 
-![screenshot-2](https://raw.githubusercontent.com/RakDc0d3R/directus-extension-unlayer/main/screenshot-02.png)
+![screenshot-2](https://raw.githubusercontent.com/RakDc0d3R/directus-extension-unlayer/main/screenshot-extension-sample.png)
 
 ## Install
 
