@@ -5,8 +5,8 @@ Unlayer email editor for Directus 10.
 **Copy below policies and paste it inside **.env** file.**
 
 ```sh
-    CONTENT_SECURITY_POLICY_DIRECTIVES__SCRIPT_SRC_ELEM="'self' http://editor.unlayer.com"
-    CONTENT_SECURITY_POLICY_DIRECTIVES__FRAME_SRC="http://editor.unlayer.com"
+CONTENT_SECURITY_POLICY_DIRECTIVES__SCRIPT_SRC_ELEM="'self' http://editor.unlayer.com"
+CONTENT_SECURITY_POLICY_DIRECTIVES__FRAME_SRC="http://editor.unlayer.com"
 ```
 
 You'll find the extension inside section **Other**
