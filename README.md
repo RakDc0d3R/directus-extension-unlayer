@@ -10,8 +10,6 @@ You'll find the extension inside section **Other**
 
 ![screenshot-1](https://raw.githubusercontent.com/RakDc0d3R/directus-extension-unlayer/main/screenshot-01.png)
 
-**Note: Don't forget to click 'Export HTML' button before saving the changes.**
-
 ![screenshot-2](https://raw.githubusercontent.com/RakDc0d3R/directus-extension-unlayer/main/screenshot-02.png)
 
 ## Install
